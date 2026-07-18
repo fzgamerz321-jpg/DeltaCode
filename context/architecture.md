@@ -32,12 +32,10 @@
 - `gestures/` — Touch gesture recognition and routing for one-, two-, and three-finger interactions.
 - `workspace/` — Workspace Dashboard, project manager, recent projects, templates, import/export, project metadata.
 - `terminal/` — Embedded terminal sessions and shell integration.
-- `git/` — Git UI that executes Git commands through the terminal.
 - `lsp/` — Language Server Protocol adapters and language intelligence.
 - `ai/` — AI provider abstraction, chat, inline completion, configurable model management.
 - `plugins/` — Plugin runtime, extension compatibility layer, sandbox.
-- `common/` — Shared utilities, models, helpers, constants.
-- `buildSrc/` — Shared Gradle build logic.
+- `component/` — All UI components.
 
 ---
 

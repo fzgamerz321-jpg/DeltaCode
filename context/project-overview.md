@@ -21,7 +21,7 @@ Use Rust as the core editor engine for text processing, buffer management, synta
 
 4. Build a Modular Architecture
 
-Design every subsystem (editor, workspace, keyboard, AI, Git, terminal, plugins, debugger, LSP, themes, settings, etc.) as an independent module with clear interfaces so that features can evolve without breaking existing functionality.
+Design every subsystem (editor, workspace, keyboard, AI, terminal, plugins, LSP, etc.) as an independent module with clear interfaces so that features can evolve without breaking existing functionality.
 
 5. Touch-First User Experience
 

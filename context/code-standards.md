@@ -213,13 +213,9 @@
 - `gestures/` — Gesture recognition, touch routing, interaction system.
 - `workspace/` — Projects, file explorer, workspace management.
 - `terminal/` — Terminal emulator and shell integration.
-- `git/` — Git operations and repository management.
 - `lsp/` — Language Server Protocol integration.
 - `ai/` — AI abstraction layer, providers, chat, inline completion.
 - `plugins/` — Plugin SDK and runtime.
-- `themes/` — Themes, icons, fonts, color schemes.
+- `component/` — All UI components.
 - `settings/` — User preferences and configuration.
-- `common/` — Shared utilities, models, helpers, constants.
-- `buildSrc/` — Shared Gradle configuration and build logic.
 - `docs/` — Architecture documentation and developer guides.
-- `tests/` — Unit, UI, integration, and performance tests.

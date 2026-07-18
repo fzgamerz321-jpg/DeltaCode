@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "DeltaCode"
 include(":app")
- 
+include(":workspace")
+include(":component")
